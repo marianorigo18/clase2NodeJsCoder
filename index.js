@@ -157,3 +157,4 @@ const manejadorDeEventos = new TicketsManager();
 manejadorDeEventos.agregarEventos("event 1", "argentina", 5, 50)
 manejadorDeEventos.agregarUsuarios(100, 1)
 console.log(manejadorDeEventos.retutnEventos())
+console.log(manejadorDeEventos.retutnEventos())
